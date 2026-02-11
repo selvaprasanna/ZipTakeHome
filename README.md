@@ -1,6 +1,6 @@
 Python CI Demo 🚀
-================
-================
+=================
+=================
 This repository demonstrates a CI workflow using:
 
 - Python 3.11
